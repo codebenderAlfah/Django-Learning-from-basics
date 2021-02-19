@@ -29,3 +29,6 @@ a{
 	background: blue;
 	border: 4px dashed yellow; 
 }
+a:visited{
+	color: blue;
+}
