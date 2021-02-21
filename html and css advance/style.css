@@ -1,0 +1,36 @@
+h1{
+	font-family: "Stick";
+	font-size: 25px;
+	font-style: bold;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+table{
+	margin: auto;
+}
+#one{
+	width: 220px;
+	height: 370px;
+	background: #264653;
+}
+#two{
+	width: 220px;
+	height: 370px;
+	background: #2a9d8f;
+}
+#three{
+	width: 220px;
+	height: 370px;
+	background: #e9c46a;
+}
+#four{
+	width: 220px;
+	height: 370px;
+	background: #f4a261;
+}
+#five{
+	width: 220px;
+	height: 370px;
+	background: #e76f51;
+}
