@@ -9,6 +9,9 @@ h1{
 table{
 	margin: auto;
 }
+th{
+	border: 6px solid white;
+}
 #one{
 	width: 220px;
 	height: 370px;
