@@ -1,0 +1,14 @@
+body{
+	text-align: center;
+	background: #00b4d8;
+	color: white;
+}
+th{
+	margin-left: 40px;
+	margin-right: 40px;
+	background: #264653;
+}
+p{
+	border: 1px solid #264653 ;
+	margin: auto;
+}
